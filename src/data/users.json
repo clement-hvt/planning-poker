@@ -1,0 +1,18 @@
+[
+  {
+    "username": "Fred",
+    "himself": false
+  },
+  {
+    "username": "Jacques",
+    "himself": false
+  },
+  {
+    "username": "Fred-Jacques",
+    "himself": false
+  },
+  {
+    "username": "Clem",
+    "himself": true
+  }
+]
